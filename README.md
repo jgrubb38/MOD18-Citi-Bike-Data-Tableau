@@ -17,10 +17,11 @@ As the new lead analyst for the New York Citi BikeLinks, an external site progra
 N/A  
 
 ## Dataset
-<a href="https://s3.amazonaws.com/tripdata/202306-citibike-tripdata.csv.zip">06-2023 Citibike Trip Data</a>  
-<a href="https://s3.amazonaws.com/tripdata/202307-citibike-tripdata.csv.zip">07-2023 Citibike Trip Data</a>  
-<a href="https://s3.amazonaws.com/tripdata/202308-citibike-tripdata.csv.zip">08-2023 Citibike Trip Data</a>  
-
+<a href="https://s3.amazonaws.com/tripdata/index.html">Citi Bike Trip History Data</a>  
+    ∙ JC-202306-citibike-tripdata  
+    ∙ JC-202307-citibike-tripdata  
+    ∙ JC-202308-citibike-tripdata  
+    
 ## Summary
 <p align="center">
 <img src="Images/MyMap.png" alt="map">
