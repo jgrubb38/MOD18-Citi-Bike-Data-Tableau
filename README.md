@@ -23,7 +23,7 @@ N/A
     ∙ JC-202308-citibike-tripdata  
     
 ## Summary
-<a href="https://public.tableau.com/views/CitiBikeRideDashboard/CitiBikeRideDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link">CitiBike Ride Dashboard</a>  
+Link to my Tableau:  <a href="https://public.tableau.com/views/CitiBikeRideDashboard/CitiBikeRideDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link">CitiBike Ride Dashboard</a>  
 
 <p align="center">
 <img src="Images/Tableau.png" alt="MyTableau">
